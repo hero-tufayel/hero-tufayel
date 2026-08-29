@@ -20,6 +20,15 @@ I enjoy turning ideas into complete digital products — from designing the user
 
 ---
 
+## 📊 GitHub Stats & Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hero-tufayel&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hero-tufayel&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+</p>
+
+---
+
 ## 🛠️ Tech Stack
 
 ### Frontend
